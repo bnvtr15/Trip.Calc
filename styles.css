@@ -92,7 +92,7 @@ nav ul li a.navbar-dark-btn.home-navbar-btn.active {
     width: 100vw;
     height: 100vh;
     min-height: 100vh;
-    background: url('.view.jpg') center center/cover no-repeat;
+    background: url('view.jpg') center center/cover no-repeat;
     display: flex;
     align-items: center;
     justify-content: center;
